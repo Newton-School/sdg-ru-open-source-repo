@@ -11,3 +11,8 @@
   **GitHub ID**: soniya-malviy 
   **Other Details**: Open Source Contributor
 
+- **Name**: Parthraj Singh Bhati 
+  **Roll Number**: 2401010320 
+  **Email ID**: parthrajsinghbhati@gmail.com 
+  **GitHub ID**: parthrajsinghbhati 
+  **Other Details**: Open Source Contributor
