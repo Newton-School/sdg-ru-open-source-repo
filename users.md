@@ -1,5 +1,5 @@
-- **Name**: Rishabh  
-  **Roll Number**: 001  
-  **Email ID**: rishabh.sharma@newtonschool.co   
-  **GitHub ID**: Rishabh32700   
+- **Name**:  Abhay Pratap Rana
+  **Roll Number**: 230055  
+  **Email ID**: abhay.r23csai@nst.rishihood.edu.in  
+  **GitHub ID**: abhay-dev2901   
   **Other Details**: Open Source Contributor
