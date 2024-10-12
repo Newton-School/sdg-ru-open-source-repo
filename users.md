@@ -11,3 +11,8 @@
   **GitHub ID**: soniya-malviy 
   **Other Details**: Open Source Contributor
 
+- **Name**: Jigyasu
+  **Roll Number**: 003
+  **Email ID**: jigyasukalyan1276106@gmail.com
+  **GitHub ID**: jigyasu-kalyan
+  **Other Details**: Open Source Contributor
