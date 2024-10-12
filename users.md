@@ -1,5 +1,5 @@
-- **Name**: Rishabh  
-  **Roll Number**: 001  
-  **Email ID**: rishabh.sharma@newtonschool.co   
-  **GitHub ID**: Rishabh32700   
+- **Name**: Saloni
+  **Roll Number**: 230087
+  **Email ID**: saloni.s23csaia@nst.rishihood.edu.in
+  **GitHub ID**: Saloni-0465
   **Other Details**: Open Source Contributor
